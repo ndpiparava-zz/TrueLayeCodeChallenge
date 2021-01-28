@@ -1,0 +1,25 @@
+{
+  "name": "TLList",
+  "version": "1.0.0",
+  "summary": "A TLList.",
+  "description": "TrueLayer Sdk is to server while you focus on your business applications.",
+  "homepage": "http://github.com/ndpiparava",
+  "license": "MIT",
+  "authors": "Nitin",
+  "platforms": {
+    "ios": "13.5"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "TLList",
+  "resources": [
+    "TLList/*.png",
+    "TLList/*.jpg",
+    "TLList/*.xib",
+    "TLList/*.otf",
+    "TLList/*.xcdatamodeld"
+  ],
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
+}

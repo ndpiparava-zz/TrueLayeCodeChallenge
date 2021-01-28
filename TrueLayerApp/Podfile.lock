@@ -1,0 +1,16 @@
+PODS:
+  - TLList (1.0.0)
+
+DEPENDENCIES:
+  - TLList (from `../TLList`)
+
+EXTERNAL SOURCES:
+  TLList:
+    :path: "../TLList"
+
+SPEC CHECKSUMS:
+  TLList: dbdf8cc8b087a96e2c06db354086c96b269ca35f
+
+PODFILE CHECKSUM: d39b49b01254550141b7dda8bcd2f3e6086cd7e8
+
+COCOAPODS: 1.10.0
